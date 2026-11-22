@@ -1,0 +1,78 @@
+{
+  "item": {
+    "id": "979853846871",
+    "restype": "watchface",
+    "name": "「拾刻」- 相册表盘",
+    "description": "「拾刻」- 相册表盘-\n一款精致免费的相册表盘\n\n*支持小米手环9Pro及以上型号\n*支持更换壁纸、配色\n*可编辑跳转，支持15+系统应用\n*官网一站式编辑图片\n\nQQ交流群：273793080/498544791\n喜欢的话可以看看我的其他作品~",
+    "preview": [
+      "media/Cover.png",
+      "media/1.png",
+      "media/2.png",
+      "media/3.png",
+      "media/0d50e79321906348e00571a1bba92f7f.jpg"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/Cover.png",
+    "author": [
+      {
+        "name": "skat",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "壁纸编辑",
+      "url": "https://poolux.top/tools/watch-face/edit-template/22",
+      "icon": "arrow-square-out"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5「拾刻」- 相册.bin",
+      "versionCode": 65536
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw5「拾刻」- 相册.bin",
+      "versionCode": 65536
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/rw6「拾刻」- 相册.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/10「拾刻」-相册.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/10「拾刻」-相册.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/10p「拾刻」- 相册.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「拾刻」-相册.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/11「拾刻」-相册.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/9p「拾刻」- 相册.bin",
+      "versionCode": 65536
+    }
+  },
+  "ext": {}
+}
